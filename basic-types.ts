@@ -88,4 +88,4 @@ let strLength: number = (<string>someValue).length;
 function showResultInPage(){
     document.getElementById("basic")!.innerHTML = ""+someValue
 }
-console.log(showResultInPage());//Show result in index.html page
+console.log(showResultInPage());//Show result in index.html
