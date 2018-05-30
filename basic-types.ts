@@ -11,7 +11,7 @@ let binary: number = 0b1010;
 let octal: number = 0o744;
 
 //String
-let color: string = "blue";
+let color: string = "blue"; 
 color = 'red';
 
 /*You can also use template strings, which can span multiple lines and have embedded expressions. 

@@ -62,7 +62,7 @@ type C = {a:string, b:number}
 function g({a,b}:C): void {
 
 }
-
+ 
 //Spread [Is a operator opposite of destructing]
 let firstN =[2,3,4]
 let lastN =[7,8,9]
