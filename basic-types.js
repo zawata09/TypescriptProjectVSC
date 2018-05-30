@@ -80,4 +80,4 @@ var strLength = someValue.length;
 function showResultInPage() {
     document.getElementById("basic").innerHTML = "" + someValue;
 }
-console.log(showResultInPage());
+console.log(showResultInPage()); //Show result in index.html
