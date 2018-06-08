@@ -19,7 +19,7 @@ function sleepCity() {
     return checkCity();
 }
 //const [value cannot be changed once they are bound]
-var numberOfKitties = 10; 
+var numberOfKitties = 10;
 var kitty = {
     name: 'All Cats',
     numLives: numberOfKitties
