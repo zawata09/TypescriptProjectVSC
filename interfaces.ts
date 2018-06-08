@@ -97,7 +97,7 @@ let analog = createClock(AnalogClock, 7, 32);
 //Extending Interfaces
 interface Shape{
     color: string
-}
+} 
 interface Degree{
     angle: number
 }

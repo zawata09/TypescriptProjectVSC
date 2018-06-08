@@ -16,7 +16,7 @@ var mySquare = createSquare({ color: "red", width: 100 });
 var mySquare2 = createSquare({ width: 100, colour: '3434' });
 var p1 = { x: 10, y: 20 };
 //p1.x = 5; // error!
-var arr = [1, 2, 3];
+var arr = [1, 2, 3]; 
 var arrRO = arr; //Assign readonly array
 //arrRO[0] ='' [Error]
 //arrRO.push(7) [Error]
